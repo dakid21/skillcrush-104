@@ -1,0 +1,19 @@
+.chadfahnestock-advice body {
+  width: 1600px;
+}
+
+.chadfahnestock-advice h1 {
+    color: #FF8C00;
+  }
+
+.chadfahnestock-advice section div {
+   width: 800px;
+   border-color: black;
+   border: 1px;
+}
+.chadfahnestock-advice h4 {
+  color: #FF8C00;
+}
+.chadfahnestock-advice footer {
+  text-align: center;
+}
